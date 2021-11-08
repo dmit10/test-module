@@ -1,0 +1,5 @@
+[map "99e9c0f6-d91b-340b-8a6b-4ad86fdcab92"]
+	object = 99c64987b104f9dbaddaa97628107cf2a99d09c6
+	path = module
+	stage = sync
+	type = expand module
