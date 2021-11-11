@@ -1,5 +1,5 @@
-[map "b85c9661-055b-3e61-a5b7-1a8491d51b6c"]
+[map "2fe550cd-be47-34bf-ab57-397d243946ec"]
 	object = 35b40863bb1f34a6b8551c8f595e882de6e14cd2
-	path = module
+	path = module1
 	stage = sync
 	type = expand module
