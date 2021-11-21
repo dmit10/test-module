@@ -13,3 +13,8 @@
 	path = module
 	stage = sync
 	type = expand module
+[map "b46af1d9-dd5e-3067-b452-27870039f192"]
+	object = 1c4bc1b581521076f8fd65efdb79b5892fc21a10
+	path = module
+	stage = sync
+	type = expand module
