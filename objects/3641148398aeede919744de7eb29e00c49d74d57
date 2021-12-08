@@ -22,3 +22,6 @@
 	object = 095a2c2a8b1bec1ea4f6953e9329083ae765df0a
 	path = module1
 	type = expand module
+[map "613d2720-f391-3f76-b4ae-9455fd87aa91"]
+	object = 338d41f2b0c5f43fb9fe28c78b11aa2c9c77ed8b
+	type = extract tree + exclude
