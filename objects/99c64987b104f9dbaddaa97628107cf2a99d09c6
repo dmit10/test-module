@@ -10,3 +10,6 @@
 	path = module
 	stage = sync
 	type = extract module
+[map "5244969b-27df-36ad-b159-1b4dbc6dc6e9"]
+	object = 2ca46dd4b9a46b011d212d683b46956964f72631
+	type = extract tree + exclude
