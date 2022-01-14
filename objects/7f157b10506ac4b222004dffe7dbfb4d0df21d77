@@ -1,12 +1,16 @@
-[map "df9174c2-b990-3da6-aeb3-413c2fd0b7ef"]
-	object = e96ed786252fa74db48b9e911e35bce26b0021f7
+[map "d2dcafb9-9621-3eba-8f57-fb88471c1fb5"]
+	object = e78d858664128a85d4961f0b805015e83c94bc2e
 	path = module91
 	type = expand module
-[map "ff0d501e-babb-3d1e-a182-1c52725c4a95"]
-	object = e96ed786252fa74db48b9e911e35bce26b0021f7
+[map "c4ba9a7a-880e-3fc6-af71-0740f4a7bf3b"]
+	object = e78d858664128a85d4961f0b805015e83c94bc2e
 	path = module2
 	type = expand module
-[map "f12561fc-15db-3978-a39f-2df0429cf96c"]
-	object = e96ed786252fa74db48b9e911e35bce26b0021f7
+[map "fe45de51-809c-3ce3-b6c9-a588f70738dc"]
+	object = e78d858664128a85d4961f0b805015e83c94bc2e
 	path = module3
+	type = expand module
+[map "5c24e67e-109a-3110-9014-ffecceca1d63"]
+	object = e78d858664128a85d4961f0b805015e83c94bc2e
+	path = GxIntegrationTest.repo
 	type = expand module
