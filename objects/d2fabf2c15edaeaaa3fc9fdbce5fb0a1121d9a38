@@ -1,12 +1,12 @@
-[map "a4cff77c-9c24-38b7-a573-bca9415d3f43"]
-	object = e46581d0c952696d73df055e459f44058461dc34
+[map "76e6b0ef-02d2-3c67-9e3b-69a6c7a2a921"]
+	object = d75636e3206f6c66a05ecd2c59bd470d853e9deb
 	path = clojurescript-chat-example2
 	type = expand module
-[map "f4613962-1432-3fb6-ba9f-e008806c4892"]
-	object = e46581d0c952696d73df055e459f44058461dc34
+[map "68caa34c-d002-35b6-8d44-2566539998d4"]
+	object = d75636e3206f6c66a05ecd2c59bd470d853e9deb
 	path = module10
 	type = expand module
-[map "80fcf9bc-fb03-3475-a710-fa1b15ab3b9f"]
-	object = e46581d0c952696d73df055e459f44058461dc34
+[map "ab4be172-0470-30c5-83fc-09cb106b1a94"]
+	object = d75636e3206f6c66a05ecd2c59bd470d853e9deb
 	path = clojurescript-chat-example
 	type = expand module
