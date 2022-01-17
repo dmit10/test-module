@@ -1,0 +1,8 @@
+[map "15bad83c-31f5-3382-bf0d-2711b999feaf"]
+	object = 75d85f89942428b003aac58d3d516406b3445a1f
+	path = module01
+	type = expand module
+[map "70489142-e7f2-38a6-9418-c5a57208f5f7"]
+	object = 75d85f89942428b003aac58d3d516406b3445a1f
+	path = module13
+	type = expand module
