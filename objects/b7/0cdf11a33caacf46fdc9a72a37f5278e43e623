@@ -1,0 +1,192 @@
+[map "1dce65b1-936b-337f-acb9-7e1569056b57"]
+	object = c4bb743733b2b4bd7b6fb6e5757b484177bdf47c
+	path = module9
+	stage = sync
+	type = extract module
+[map "a7b8e9bb-59d9-393d-b626-3a787daeee61"]
+	object = d2fabf2c15edaeaaa3fc9fdbce5fb0a1121d9a38
+	path = clojurescript-chat-example2
+	stage = sync
+	type = extract module
+[map "de1bf8b5-f6f5-3ff1-8ec9-72c47c02fecf"]
+	object = b0cffe4ac55663a34619b052df5d7f0724caaad6
+	path = module7
+	stage = sync
+	type = extract module
+[map "e04caa8a-3658-398b-959b-0f2d42cf11a9"]
+	object = 7f157b10506ac4b222004dffe7dbfb4d0df21d77
+	path = module91
+	stage = sync
+	type = extract module
+[map "5abd51ab-46cd-3ea3-9b06-d2c0c5c2eb9d"]
+	object = b0cffe4ac55663a34619b052df5d7f0724caaad6
+	path = module1
+	stage = sync
+	type = extract module
+[map "1dcf5888-4f5d-35b8-a11e-c17ef628002a"]
+	object = 7f157b10506ac4b222004dffe7dbfb4d0df21d77
+	path = GxIntegrationTest.repo
+	stage = sync
+	type = extract module
+[map "c15d650d-4cd9-3324-9aad-d2445c7c1b04"]
+	object = d2fabf2c15edaeaaa3fc9fdbce5fb0a1121d9a38
+	path = module10
+	stage = sync
+	type = extract module
+[map "4545fa05-08ef-36ce-a9f5-1c2dbd73e50e"]
+	object = 7f157b10506ac4b222004dffe7dbfb4d0df21d77
+	path = module11
+	stage = sync
+	type = extract module
+[map "e344d4af-9eca-3ce6-8402-4d114f1c537b"]
+	object = 65f5b9f020b46493d28e0c5e017fbac383d26ba2
+	path = module01
+	stage = sync
+	type = extract module
+[map "39209c08-dbd1-3ceb-9e69-92526df395ef"]
+	object = 65f5b9f020b46493d28e0c5e017fbac383d26ba2
+	path = module13
+	stage = sync
+	type = extract module
+[map "9f7a095f-3ca9-3bfc-a9d6-3c29a3bdd91d"]
+	object = 7f157b10506ac4b222004dffe7dbfb4d0df21d77
+	path = module2
+	stage = sync
+	type = extract module
+[map "1cc394ed-0694-397d-b373-a9b23b6b0bd4"]
+	object = 52a29308613e3e18ec7b77227a450a3194edf37d
+	path = module14
+	stage = sync
+	type = extract module
+[map "52a534a9-53da-3a8c-92f7-719f44228e73"]
+	object = 7f157b10506ac4b222004dffe7dbfb4d0df21d77
+	path = module3
+	stage = sync
+	type = extract module
+[map "3d0a9e1f-169a-30ae-8197-38df3644e777"]
+	object = d2fabf2c15edaeaaa3fc9fdbce5fb0a1121d9a38
+	path = clojurescript-chat-example
+	stage = sync
+	type = extract module
+[map "55e61ac8-9d1b-3278-8508-2a8b158f030f"]
+	object = 52a29308613e3e18ec7b77227a450a3194edf37d
+	path = module
+	stage = sync
+	type = extract module
+[module "5a87894f-e520-3448-9206-a38055bff044"]
+	conflict = request-pull
+	path = GxIntegrationTest.repo
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "76896dcc-3ed5-34dc-afe7-71ecac505720"]
+	conflict = request-pull
+	path = clojurescript-chat-example
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/91212025
+[module "bd5a29e1-d450-31cb-9304-3a8567e2ef2d"]
+	conflict = request-pull
+	path = clojurescript-chat-example2
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/91212025
+[module "aeed691b-04a2-3155-a183-6fc01c44ba76"]
+	conflict = request-pull
+	path = module
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/400140845
+[module "6b465ea8-6bd5-3cf2-91fb-33011a835601"]
+	conflict = request-pull
+	path = module01
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/400140840
+[module "8c02719b-177d-347d-91e0-469a4ccbf93a"]
+	conflict = request-pull
+	path = module1
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/1047846
+[module "b14e0e8d-c20e-3804-97c8-d85cbe579260"]
+	conflict = request-pull
+	path = module10
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/91212025
+[module "bde5a068-0895-35d2-b9a5-a57364df33d3"]
+	conflict = request-pull
+	path = module11
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "a835ebb2-2538-3867-aa2e-fee26d987fd1"]
+	conflict = request-pull
+	path = module13
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/400140840
+[module "1a865db9-ab31-30fb-b611-e060de293f27"]
+	conflict = request-pull
+	path = module14
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/400140845
+[module "070d365b-bf8b-33ae-a3ff-5905f1910ae3"]
+	conflict = request-pull
+	path = module2
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "2e48d9f1-a5f7-31d8-8d72-1613929dd2bd"]
+	conflict = request-pull
+	path = module3
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "88a01a61-4e8f-3bb0-981e-d0aa56319d77"]
+	conflict = request-pull
+	path = module7
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/1047846
+[module "522b6a16-c3cc-3944-bede-3cde0abe8b13"]
+	conflict = request-pull
+	path = module9
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/branch
+	url = agnostic://github-cloud/384196331
+[module "d39cd2fa-17b0-3156-867d-0b9f99f8a9a6"]
+	conflict = request-pull
+	path = module91
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "67e99713-3c60-3f8a-838c-17b9a34359b8"]
+	conflict = request-pull
+	path = module15
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/400140845
+[map "070edb7a-0f4b-3184-9288-07fcfa8640bf"]
+	object = 52a29308613e3e18ec7b77227a450a3194edf37d
+	path = module15
+	stage = sync
+	type = extract module
