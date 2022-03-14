@@ -1,0 +1,36 @@
+[map "7638439c-39a0-3bbc-90c2-e354cbc33634"]
+	object = a736c4d16dda95ff3bd09a279dbbbc4f7c77d6af
+	path = module91
+	stage = sync
+	type = extract module
+[map "7b21ab77-b9df-32e3-8b1c-89d4781aa2b9"]
+	object = 948e57361e6035dc885e23a4c72cf8997bea9824
+	path = module1
+	stage = sync
+	type = extract module
+[module "d39cd2fa-17b0-3156-867d-0b9f99f8a9a6"]
+	conflict = request-pull
+	path = module91
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/399423617
+[module "8c02719b-177d-347d-91e0-469a4ccbf93a"]
+	conflict = request-pull
+	path = module1
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/master
+	url = agnostic://github-cloud/400140840
+[module "aeed691b-04a2-3155-a183-6fc01c44ba76"]
+	conflict = request-pull
+	path = module
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/main
+	url = agnostic://github-cloud/428758253
+[map "785939e8-d4bf-38bd-8f12-8406768729a7"]
+	object = f49c9c20ecb757ddc55c7996f6d230a3f497b080
+	path = module
+	stage = sync
+	type = extract module
