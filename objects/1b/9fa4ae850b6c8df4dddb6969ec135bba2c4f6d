@@ -41,3 +41,8 @@
 	path = module
 	stage = sync
 	type = extract module
+[map "8e67ae46-d083-3272-bea6-3bb25296b614"]
+	object = 1ae1dd286bebb281bf0e667b6a728aafb809da84
+	path = module2
+	stage = sync
+	type = extract module
