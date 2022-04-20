@@ -1,4 +1,4 @@
-[map "560d9337-7c8e-3b80-9769-18da89ff5ae7"]
+[map "a0c524fd-2582-30f6-b49c-8a9cd18f5abe"]
 	object = 56b6ab6012c36fb62c25684c179f83221b876f52
-	path = module2
+	path = module1
 	type = expand module
